@@ -1,11 +1,12 @@
 #include<iostream>
-#include<cmath>
+//#include<cmath>
 using namespace std;
 // Write a C++ program to enter radius of a circle and find its diameter, circumference and area.
 
 int main(){
 	float diameter, radius, circumference, area;
-	float pi = acos(-1.0);
+//	float pi = acos(-1.0);
+	float pi = 3.14159;
 
 	cout << "This program is supposed to output the radius, circumference and the area of a circle with a given diameter." << endl << endl;
 	
