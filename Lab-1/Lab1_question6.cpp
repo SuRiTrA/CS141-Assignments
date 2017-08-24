@@ -15,7 +15,7 @@ int main(){
 
 	radius = diameter/2;
 	circumference = pi*diameter;
-	area = pi*diameter*diameter;
+	area = pi*radius*radius;
 
 	cout << "The circle has radius: " << radius << " units." << endl;
 	cout << "The circle has circumference: " << circumference << " units." << endl;
