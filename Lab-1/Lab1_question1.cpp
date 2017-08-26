@@ -34,7 +34,5 @@ int main(){
 	cout << "Double floating point value: " << doubleFloatingPt << endl;
 	cout << "Character value: " << character << endl;
 
-	cout << endl;
-
 	return 0;
 }
