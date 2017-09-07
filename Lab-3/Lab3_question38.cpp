@@ -27,7 +27,7 @@ int nthDigit(int number, int n){
 }
 
 bool isPalindrome(int number){
-	int val;
+	int val=0;
 	for(int i=1; i<=numDigits(number); ++i){
 		if(nthDigit(number,i) == nthDigit(number, (numDigits(number)-i+1))){
 			++val;
