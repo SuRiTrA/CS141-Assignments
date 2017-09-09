@@ -1,2 +1,6 @@
 *.out
 *-ignore
+onetwocomp.cpp
+foo.cpp
+frombasen.cpp
+*not.cpp
