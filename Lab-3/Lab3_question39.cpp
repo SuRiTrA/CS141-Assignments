@@ -45,6 +45,7 @@ int main(){
 	}
 
 	cout << "Frequency distribution of digits is as follows: " << endl;
+
 	cout << "Digit \tFrequency" << endl;
 
 	for(int i=0; i<10; ++i){
