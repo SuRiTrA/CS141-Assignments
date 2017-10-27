@@ -66,8 +66,7 @@ char* Strstr(char* str1, char* str2) {
 			} else break;
 
 			if (flag = Strlen(str2)) {
-				cout << str1+i << endl;
-				return 0;
+				return str1+i;
 			}
 		}
 	}
