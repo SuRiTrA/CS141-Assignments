@@ -9,10 +9,10 @@ int main() {
 	int *Ip;
 
 	float F;
-	float Fp;
+	float *Fp;
 
 	double D;
-	double Dp;
+	double *Dp;
 
 	char C;
 	char *Cp;
